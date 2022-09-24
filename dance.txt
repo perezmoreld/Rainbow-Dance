@@ -1,2 +1,4 @@
 step right.
 step left.
+Jump.
+Twirl your hands.
